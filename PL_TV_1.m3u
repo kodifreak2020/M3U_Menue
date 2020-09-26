@@ -1,0 +1,286 @@
+#EXTM3U
+
+#EXTINF:-1,PL: Canal+ Sport 1 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/33055
+#EXTINF:-1,PL: Eleven Sports 1 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32563
+#EXTINF:-1,PL: Eleven Sports 4 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/39670
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70333
+#EXTINF:-1,PL: Polsat Sport FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/75294
+#EXTINF:-1,PL: Polsat Sport
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/33048
+#EXTINF:-1,PL: Polsat Sport Extra
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/33049
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32502
+#EXTINF:-1,PL: Polsat Sport Fight FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43715
+#EXTINF:-1,PL: Polsat Sport News FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43688
+#EXTINF:-1,PL: Eurosport 1 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32560
+#EXTINF:-1,PL: Eurosport 2 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32559
+#EXTINF:-1,PL: Fight Klub HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32556
+#EXTINF:-1,PL: Sport Klub Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32438
+#EXTINF:-1,PL: Golf Channel FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43694
+#EXTINF:-1,PL: Motowizja FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/71004
+#EXTINF:-1,PL: Canal+ HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32582
+#EXTINF:-1,PL: Canal+ »1 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32591
+#EXTINF:-1,PL: Canal+ Film FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32588
+#EXTINF:-1,PL: Cinemax FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32578
+#EXTINF:-1,PL: Cinemax 2 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32577
+#EXTINF:-1,PL: HBO FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32545
+#EXTINF:-1,PL: HBO 2 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32544
+#EXTINF:-1,PL: HBO 3 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32543
+#EXTINF:-1,PL: FilmBox Arthouse
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32450
+#EXTINF:-1,PL: Mango 24
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32555
+#EXTINF:-1,PL: FilmBox Family
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32553
+#EXTINF:-1,PL: KSW PPV (Live on Saturday) FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43696
+#EXTINF:-1,PL: FILMBOX EXTRA HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43697
+#EXTINF:-1,PL: Sundance Tv FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43713
+#EXTINF:-1,PL: BBC HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32593
+#EXTINF:-1,PL: BBC Earth FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32594
+#EXTINF:-1,PL: BBC Brit Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70243
+#EXTINF:-1,PL: BBC Lifestyle Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70242
+#EXTINF:-1,PL: SCI FI FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32462
+#EXTINF:-1,PL: AXN Polska
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32600
+#EXTINF:-1,PL: AXN Black
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32602
+#EXTINF:-1,PL: AXN Spin FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32599
+#EXTINF:-1,PL: AXN White
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32598
+#EXTINF:-1,PL: CBS Action
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32451
+#EXTINF:-1,PL: FOX Polska
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32547
+#EXTINF:-1,PL: FOX Comedy Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32549
+#EXTINF:-1,PL: FOX Comedy Polska
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32548
+#EXTINF:-1,PL: Polsat Comedy Central FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70999
+#EXTINF:-1,PL: Comedy Central Polska
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32576
+#EXTINF:-1,PL: Comedy Central Family Polska
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32583
+#EXTINF:-1,PL: Paramount Channel Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70997
+#EXTINF:-1,PL: Polonia 1
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43691
+#EXTINF:-1,PL: Kino Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32538
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32539
+#EXTINF:-1,PL: Polsat HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32512
+#EXTINF:-1,PL: Polsat
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32507
+#EXTINF:-1,PL: Polsat Seriale FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32517
+#EXTINF:-1,PL: Polsat Café FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32516
+#EXTINF:-1,PL: Polsat Film FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32514
+#EXTINF:-1,PL: Polsat Romans
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32504
+#EXTINF:-1,PL: Super Polsat FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32500
+#EXTINF:-1,PL: Polsat Play FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43689
+#EXTINF:-1,PL: Polsat Games FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/86086
+#EXTINF:-1,PL: Polsat Rodzina FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/86085
+#EXTINF:-1,PL: Polsat Play HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32506
+#EXTINF:-1,PL: TVP FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43680
+#EXTINF:-1,PL: TVP 1 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32474
+#EXTINF:-1,PL: TVP 3 Warszawa
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32472
+#EXTINF:-1,PL: TVP ABC
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32471
+#EXTINF:-1,PL: TVP Historia
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32469
+#EXTINF:-1,PL: TVP Info FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32487
+#EXTINF:-1,PL: TVP Rozrywka
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32446
+#EXTINF:-1,PL: TVP POLONIA
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43708
+#EXTINF:-1,PL: TVN 24 HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32485
+#EXTINF:-1,PL: TVN24 BiS HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43681
+#EXTINF:-1,PL: VH1
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32475
+#EXTINF:-1,PL: TVN Style FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32479
+#EXTINF:-1,PL: TVN Style
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32478
+#EXTINF:-1,PL: TVN Turbo FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32477
+#EXTINF:-1,PL: TVN Turbo
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32476
+#EXTINF:-1,PL: TVN Fabula FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43682
+#EXTINF:-1,PL: StudioMed TV FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43686
+#EXTINF:-1,PL: Puls 2
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32498
+#EXTINF:-1,PL: TV 6 FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32486
+#EXTINF:-1,PL: Domo+  FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32575
+#EXTINF:-1,PL: Kuchnia+ FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32537
+#EXTINF:-1,PL: Canal+ Dokument FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32590
+#EXTINF:-1,PL: Polsat Doku FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/42454
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32499
+#EXTINF:-1,PL: Polsat Viasat Explore FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43687
+#EXTINF:-1,PL: Viasat Nature Polsat FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70245
+#EXTINF:-1,PL: Polsat Viasat Nature FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43714
+#EXTINF:-1,PL: National Geographic FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32530
+#EXTINF:-1,PL: National Geographic Wild FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32527
+#EXTINF:-1,PL: National Geographic Wild
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32526
+#EXTINF:-1,PL: National Geographic People FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32528
+#EXTINF:-1,PL: Discovery Channel FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32574
+#EXTINF:-1,PL: Discovery Historia
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32573
+#EXTINF:-1,PL: Discovery Life FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32572
+#EXTINF:-1,PL: Discovery Science FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32571
+#EXTINF:-1,PL: Discovery Science
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32570
+#EXTINF:-1,PL: Investigation Discovery HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32540
+#EXTINF:-1,PL: DTX FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32597
+#EXTINF:-1,PL: DTX HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32569
+#EXTINF:-1,PL: Animal Planet FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32595
+#EXTINF:-1,PL: History
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32449
+#EXTINF:-1,PL: Food Network FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43695
+#EXTINF:-1,PL: Lifetime FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/71003
+#EXTINF:-1,PL: Travel Channel FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/71001
+#EXTINF:-1,PL: BBC CBeebies
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70349
+#EXTINF:-1,PL: Cartoon Network FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32579
+#EXTINF:-1,PL: Disney Channel FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32567
+#EXTINF:-1,PL: Disney Junior
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32566
+#EXTINF:-1,PL: Disney XD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32565
+#EXTINF:-1,PL: Nickelodeon
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32524
+#EXTINF:-1,PL: Nick Jr
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32525
+#EXTINF:-1,PL: Nicktoons Polska FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/71000
+#EXTINF:-1,PL: Teletoon+ FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32456
+#EXTINF:-1,PL: Baby TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/70244
+#EXTINF:-1,PL: JimJam Polsat
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32511
+#EXTINF:-1,PL: Polsat Music FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43690
+#EXTINF:-1,PL: MTV POLSKA FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43719
+#EXTINF:-1,PL: Trace Urban
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32464
+#EXTINF:-1,PL: VOX Music TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32459
+#EXTINF:-1,PL: 4 Fun Dance
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32454
+#EXTINF:-1,PL: Eska TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32561
+#EXTINF:-1,PL: NOWA TV FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43718
+#EXTINF:-1,PL: ATM Rozrywka
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32436
+#EXTINF:-1,PL: Fokus TV FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32550
+#EXTINF:-1,PL: Metro
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32568
+#EXTINF:-1,PL: E! FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32531
+#EXTINF:-1,PL: Nuta TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43717
+#EXTINF:-1,PL: wPolsce.PL
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43705
+#EXTINF:-1,PL: Polo TV FHD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32520
+#EXTINF:-1,PL: Power TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32523
+#EXTINF:-1,PL: Stars TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32496
+#EXTINF:-1,PL: Stopklatka TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32448
+#EXTINF:-1,PL: TO!TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32491
+#EXTINF:-1,PL: TTV HD
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32490
+#EXTINF:-1,PL: TV Republika
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32447
+#EXTINF:-1,PL: TVS
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32465
+#EXTINF:-1,PL: Zoom TV
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32439
+#EXTINF:-1,PL: VOD 207
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32445
+#EXTINF:-1,PL: VOD 205
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32443
+#EXTINF:-1,PL: VOD 206
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/32442
+#EXTINF:-1,PL: VOD 208
+http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/43707
