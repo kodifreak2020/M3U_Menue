@@ -1,9 +1,10 @@
 #EXTM3U
 
+
 #EXTINF:-1, DAZN 1 BAR HD
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886.ts
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
 #EXTINF:-1, DAZN 2 BAR HD
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887.ts
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
 #EXTINF:-1, NICK AUSTRIA
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/40695.ts
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/40695
 
