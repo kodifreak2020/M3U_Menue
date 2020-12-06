@@ -1,355 +1,198 @@
 #EXTM3U
 
-#EXTINF:-1, DAZN 1 BAR HD
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19886
-#EXTINF:-1, DAZN 2 BAR HD
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/19887
-#EXTINF:-1, NICK AUSTRIA
-http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/40695
-
-#EXTINF:-1,DE | One HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1175
-#EXTINF:-1,DE | Das Erste HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1176
-#EXTINF:-1,DE | ZDF HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1177
-#EXTINF:-1,DE | ZDF info HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1180
-#EXTINF:-1,DE | ZDF
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1178
-#EXTINF:-1,DE | Zdf_neo HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1179
-#EXTINF:-1,DE | SAT.1 Gold HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1186
-#EXTINF:-1,DE | Pro7 MAXX HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1196
-#EXTINF:-1,DE | VOX HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1181
-#EXTINF:-1,DE | VOX
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1182
-#EXTINF:-1,DE | SAT.1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1183
-#EXTINF:-1,DE | SAT.1
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1184
-#EXTINF:-1,DE | SAT.1 Gold
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1185
-#EXTINF:-1,DE | RTL HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1187
-#EXTINF:-1,DE | RTL
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1188
-#EXTINF:-1,DE | RTL Zwei HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1189
-#EXTINF:-1,DE | RTL Zwei
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1190
-#EXTINF:-1,DE | RTL plus HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1191
-#EXTINF:-1,DE | ProSieben HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1194
-#EXTINF:-1,DE | ProSieben
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1195
-#EXTINF:-1,DE | Pro7 MAXX
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1197
-#EXTINF:-1,DE | kabel eins HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1198
-#EXTINF:-1,DE | Zee One
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1199
-#EXTINF:-1,DE | Zee One HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1200
-#EXTINF:-1,-- Unterhaltung | LIVE  --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1201
-#EXTINF:-1,DE | Channel 21
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1204
-#EXTINF:-1,DE | N-TV
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1205
-#EXTINF:-1,DE | SUPER RTL HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1206
-#EXTINF:-1,DE | SUPER RTL
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1207
-#EXTINF:-1,DE | Tagesschau 24
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1208
-#EXTINF:-1,DE | Family TV
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1215
-#EXTINF:-1,-- CINEMA | LIVE --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1223
-#EXTINF:-1,DE | Sky Atlantic FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1225
-#EXTINF:-1,DE | Sky Atlantic
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1226
-#EXTINF:-1,DE | Sky Cinema HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1227
-#EXTINF:-1,DE | Sky Cinema
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1228
-#EXTINF:-1,DE | Sky Cinema +1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1229
-#EXTINF:-1,DE | Sky Cinema +1
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1230
-#EXTINF:-1,DE | Sky Cinema + 24 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1231
-#EXTINF:-1,DE | Sky Cinema  +24
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1232
-#EXTINF:-1,DE | Sky Cinema Action HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1233
-#EXTINF:-1,DE | Sky Cinema Action
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1234
-#EXTINF:-1,DE | Sky Cinema Hits 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1236
-#EXTINF:-1,DE | Sky Cinema Family FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1237
-#EXTINF:-1,DE | Sky Cinema Family
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1238
-#EXTINF:-1,DE | Sky Cinema Comedy
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1239
-#EXTINF:-1,DE | Sky Cinema Nostalgie
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1240
-#EXTINF:-1,DE | Sky Cinema Emotion
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1241
-#EXTINF:-1,DE | Sky Krimi FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1224
-#EXTINF:-1,DE | Sky Cinema Alien HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1235
-#EXTINF:-1,DE | FOX HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1245
-#EXTINF:-1,DE | FOX
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1246
-#EXTINF:-1,DE | TNT Serie HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1248
-#EXTINF:-1,DE | TNT Film
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1255
-#EXTINF:-1,DE | Fox Serie
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1247
-#EXTINF:-1,DE | TNT Serie
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1249
-#EXTINF:-1,DE | TNT Comedy HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1256
-#EXTINF:-1,DE | NITRO HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1252
-#EXTINF:-1,DE | Universal HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1254
-#EXTINF:-1,DE | Romance TV HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1242
-#EXTINF:-1,DE | 13th Street HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1243
-#EXTINF:-1,DE | 13th Street
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1244
-#EXTINF:-1,DE | SIXX HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1250
-#EXTINF:-1,DE | SIXX
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1251
-#EXTINF:-1,DE | NITRO
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1253
-#EXTINF:-1,DE | Comedy Central
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1257
-#EXTINF:-1,DE | SYFY HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1258
-#EXTINF:-1,DE | SYFY
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1259
-#EXTINF:-1,DE | TLC HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1260
-#EXTINF:-1,DE | TLC
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1261
-#EXTINF:-1,DE | Kinowelt TV HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1262
-#EXTINF:-1,DE | E! Entertainm. HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1263
-#EXTINF:-1,-- SPORTS | LIVE --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1264
-#EXTINF:-1,DE | Sport1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1265
-#EXTINF:-1,DE | DAZN 1 Bar FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1266
-#EXTINF:-1,DE | DAZN 2 Bar FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1267
-#EXTINF:-1,DE | Eurosport 1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1268
-#EXTINF:-1,DE | Eurosport 1 SD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1269
-#EXTINF:-1,DE | Eurosport 2  HD Xtra
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1270
-#EXTINF:-1,DE | Bayern Munich TV
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/92113
-#EXTINF:-1,DE | Sport Digital HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1271
-#EXTINF:-1,DE | Motorvision TV
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1272
-#EXTINF:-1,DE | Sky Sport News FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1273
-#EXTINF:-1,DE | Sky Sport News
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1274
-#EXTINF:-1,DE | Sky Sport Austria 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1275
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1276
-#EXTINF:-1,DE | Sky Sport Bundesliga 1
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1277
-#EXTINF:-1,DE | Sky Sport Bundesliga 2 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1278
-#EXTINF:-1,DE | Sky Sport Bundesliga 2 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1279
-#EXTINF:-1,DE | Sky Sport Bundesliga 3 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1280
-#EXTINF:-1,DE | Sky Sport Bundesliga 3 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1281
-#EXTINF:-1,DE | Sky Sport Bundesliga 4 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1282
-#EXTINF:-1,DE |Sky Sport Bundesliga 4 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1283
-#EXTINF:-1,DE | Sky Sport Bundesliga 5 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1284
-#EXTINF:-1,DE | Sky Sport Bundesliga 5 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1285
-#EXTINF:-1,DE | Sky Sport Bundesliga 6 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1286
-#EXTINF:-1,DE | Sky Sport Bundesliga 6 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1287
-#EXTINF:-1,DE | Sky Sport Bundesliga 7 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1288
-#EXTINF:-1,DE | Sky Sport Bundesliga 8 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1289
-#EXTINF:-1,DE | Sky Sport Bundesliga 9 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1290
-#EXTINF:-1,DE | Sky Sport Bundesliga 10 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1291
-#EXTINF:-1,DE | Sky Sport Bundesliga 10 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1292
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1293
-#EXTINF:-1,DE | Sky Sport 1
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1294
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1295
-#EXTINF:-1,DE | Sky Sport 2
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1296
-#EXTINF:-1,DE | Sky Sport 3 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1297
-#EXTINF:-1,DE | Sky Sport 3 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1298
-#EXTINF:-1,DE | Sky Sport 4 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1299
-#EXTINF:-1,DE | Sky Sport 4 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1300
-#EXTINF:-1,DE | Sky Sport 5HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1301
-#EXTINF:-1,DE | Sky Sport 5 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1302
-#EXTINF:-1,DE | Sky Sport 6 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1303
-#EXTINF:-1,DE | Sky Sport 6 ( Match time )
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1304
-#EXTINF:-1,DE | Sky Sport 7 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1305
-#EXTINF:-1,DE | Sky Sport 7 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1306
-#EXTINF:-1,DE | Sky Sport 8 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1307
-#EXTINF:-1,DE | Sky Sport 9 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1308
-#EXTINF:-1,DE | Sky Sport 10 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1309
-#EXTINF:-1,DE | Sky Sport 11 HD | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1310
-#EXTINF:-1,DE | Sky Sport 11 | Match time 
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1311
-#EXTINF:-1,-- CULTURE | LIVE --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1312
-#EXTINF:-1,DE | National Geographic HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1313
-#EXTINF:-1,DE | National Geographic
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1314
-#EXTINF:-1,DE | Nat Geo Wild FHD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1315
-#EXTINF:-1,DE | Nat Geo Wild
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1317
-#EXTINF:-1,DE | DMAX HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1316
-#EXTINF:-1,DE | N24 DOKU
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1318
-#EXTINF:-1,DE | ANIXE HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1327
-#EXTINF:-1,DE | 3sat HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1328
-#EXTINF:-1,DE | Discovery HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1319
-#EXTINF:-1,DE | Discovery
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1320
-#EXTINF:-1,DE | History HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1324
-#EXTINF:-1,DE | kabel eins Doku
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1325
-#EXTINF:-1,DE | CRIME+ INVESTI GATION HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1326
-#EXTINF:-1,DE | EWTN katholisches TV
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1323
-#EXTINF:-1,-- Enfante | LIVE  --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1330
-#EXTINF:-1,DE | KiKA HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1331
-#EXTINF:-1,DE | Cartoon Network
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1332
-#EXTINF:-1,DE | Boomerang
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1333
-#EXTINF:-1,DE | Junior
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1334
-#EXTINF:-1,DE | TOGGO plus
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1335
-#EXTINF:-1,DE | Disney XD HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1336
-#EXTINF:-1,DE | Disney Junior HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1337
-#EXTINF:-1,DE | Disney Junior
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1338
-#EXTINF:-1,DE | Disney Cinemagic HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1339
-#EXTINF:-1,DE | Disney Cinemagic
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1340
-#EXTINF:-1,DE| Disney Channel  ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1341
-#EXTINF:-1,DE | NICKELODEON AT
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1342
-#EXTINF:-1,DE | MTV HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1344
-#EXTINF:-1,DE | Classica
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1346
-#EXTINF:-1,DE | DELUXE MUSIC
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1347
-#EXTINF:-1,-- PPV | REC  --
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1348
-#EXTINF:-1,DE | SKY SELECTE 1 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1192
-#EXTINF:-1,DE | SKY SELECTE 2 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1193
-#EXTINF:-1,DE | SKY SELECTE 3 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1202
-#EXTINF:-1,DE | SKY SELECTE 4 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1203
-#EXTINF:-1,DE | SKY SELECTE 5 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1209
-#EXTINF:-1,DE | SKY SELECTE 6 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1210
-#EXTINF:-1,DE | SKY SELECTE 7 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1211
-#EXTINF:-1,DE | SKY SELECTE 8 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1212
-#EXTINF:-1,DE | SKY SELECTE 9 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1213
-#EXTINF:-1,DE | SKY SELECTE 10 HD
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1214
-#EXTINF:-1,DE | Sky Select 1 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1349
-#EXTINF:-1,DE | Sky Select 2 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1350
-#EXTINF:-1,DE | Sky Select 3 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1351
-#EXTINF:-1,DE | Sky Select 4 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1352
-#EXTINF:-1,DE | Sky Select 5 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1353
-#EXTINF:-1,DE | Sky Select 6 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1354
-#EXTINF:-1,DE | Sky Select 7 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1355
-#EXTINF:-1,DE | Sky Select 8 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1356
-#EXTINF:-1,DE | Sky Select 9 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1357
-#EXTINF:-1,DE | Sky Select 10 ᴴᴰ
-http://showflix.org:5890/frerogaga/mNmWhgCJ7u/1358
+#EXTINF:-1,[DE] ZEE ONE HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2315
+#EXTINF:-1,[DE] SKY SELECT 1 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/822
+#EXTINF:-1,[DE] SKY SELECT 2 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/826
+#EXTINF:-1,[DE] SKY SELECT 3 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/830
+#EXTINF:-1,[DE] SKY SELECT 4 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/832
+#EXTINF:-1,[DE] SKY SELECT 5 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/834
+#EXTINF:-1,SKY BUNDESLIGA
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/86
+#EXTINF:-1,SKY BUNDESLIGA 2 Only Live
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1735
+#EXTINF:-1,SKY BUNDESLIGA 3 Only Live
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1736
+#EXTINF:-1,SKY BUNDESLIGA 4 Only Live
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1737
+#EXTINF:-1,SKY BUNDESLIGA 5 Only Live
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1738
+#EXTINF:-1,[DE] BUNDESLIGA 1 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3006
+#EXTINF:-1,[DE] BUNDESLIGA 2 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3007
+#EXTINF:-1,[DE] BUNDESLIGA 3 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3008
+#EXTINF:-1,[DE] BUNDESLIGA 4 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3009
+#EXTINF:-1,[DE] BUNDESLIGA 5 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3010
+#EXTINF:-1,[DE] SKY SPORT 1 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2196
+#EXTINF:-1,[DE] SKY SPORT 2 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2198
+#EXTINF:-1,[DE] SKY SPORT AUSTRIA
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2194
+#EXTINF:-1,[DE] SKY SPORT NEWS HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2193
+#EXTINF:-1,[DE]  SPORTDIGITAL HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3336
+#EXTINF:-1,[DE] EUROSPORT 1 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2101
+#EXTINF:-1,[DE] EUROSPORT 2 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4231
+#EXTINF:-1,[DE] SPORT 1
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2229
+#EXTINF:-1,[DE] SPORT 1+ HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/3332
+#EXTINF:-1,[DE]  +3  HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2976
+#EXTINF:-1,[DE]  +4  HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2975
+#EXTINF:-1,[DE]  +5  HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2974
+#EXTINF:-1,[DE] NICKELODEON
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1728
+#EXTINF:-1,[DE] FOX DE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/803
+#EXTINF:-1,[DE] AXN HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/943
+#EXTINF:-1,[DE] DAS ERSTE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/805
+#EXTINF:-1,[DE] 3 SAT
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/806
+#EXTINF:-1,[DE] SRF 1
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1320
+#EXTINF:-1,[DE] SRF 2
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1321
+#EXTINF:-1,[DE] RTL LIVING DE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1811
+#EXTINF:-1,[DE] RTL NITRO
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1809
+#EXTINF:-1,[DE] SAT 1 GOLD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1813
+#EXTINF:-1,[DE] SIXX HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1814
+#EXTINF:-1,[DE] ROMANCE TV HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1815
+#EXTINF:-1,[DE] DISNEY CHANNEL DE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1819
+#EXTINF:-1,[DE] RTL DE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/464
+#EXTINF:-1,[DE] VOX HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/153
+#EXTINF:-1,[DE] SAT 1
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/351
+#EXTINF:-1,[DE] PRO 7
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/264
+#EXTINF:-1,[DE] KABEL 1
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/352
+#EXTINF:-1,[DE] DMAX
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/717
+#EXTINF:-1,[DE] SKY HITS
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1729
+#EXTINF:-1,[DE] TNT FILM
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1807
+#EXTINF:-1,[DE] TLC DE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1820
+#EXTINF:-1,[DE] SKY CINEMA +1
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/1079
+#EXTINF:-1,[DE] SKY CINEMA +24
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/171
+#EXTINF:-1,[DE] SKY COMEDY
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/82
+#EXTINF:-1,[DE] SKY EMOTION
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/170
+#EXTINF:-1,[DE] 13TH STREET
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2080
+#EXTINF:-1,[DE] ATV
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2583
+#EXTINF:-1,[DE] ATV 2
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2584
+#EXTINF:-1,[DE] ANIXE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2082
+#EXTINF:-1,[DE] DISCOVERY CHANNEL
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2091
+#EXTINF:-1,[DE] DISCOVERY HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2092
+#EXTINF:-1,[DE] DISNEY CINEMAGIC HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2094
+#EXTINF:-1,[DE] DISNEY JUNIOR
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2095
+#EXTINF:-1,[DE] DISNEY XD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2096
+#EXTINF:-1,[DE] HISTORY HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2113
+#EXTINF:-1,[DE] KIKA
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2120
+#EXTINF:-1,[DE] KINOWELT TV
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2121
+#EXTINF:-1,[DE] N24
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2128
+#EXTINF:-1,[DE] NATGEO WILD HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2129
+#EXTINF:-1,[DE] NATIONAL GEOGRAPHIC HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2132
+#EXTINF:-1,[DE] NDR HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2133
+#EXTINF:-1,[DE] PRO 7 MAXX
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2136
+#EXTINF:-1,[DE] PULS 4
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2585
+#EXTINF:-1,[DE] RTL CRIME
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2142
+#EXTINF:-1,[DE] RTL PASSION
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2143
+#EXTINF:-1,[DE] RTL2
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2145
+#EXTINF:-1,[DE] SKY ATLANTIC HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2151
+#EXTINF:-1,[DE] SKY CINEMA
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2153
+#EXTINF:-1,[DE] SKY CINEMA 1 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2156
+#EXTINF:-1,[DE] SKY CINEMA 24 HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2158
+#EXTINF:-1,[DE] SKY CINEMA ACTION HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2160
+#EXTINF:-1,[DE] SKY CINEMA FAMILY
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2163
+#EXTINF:-1,[DE] SKY CINEMA HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2154
+#EXTINF:-1,[DE] SKY CINEMA NOSTALGIE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2166
+#EXTINF:-1,[DE] SKY KRIMI
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2167
+#EXTINF:-1,[DE] SUPER RTL
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2172
+#EXTINF:-1,[DE] SYFY HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2174
+#EXTINF:-1,[DE] TNT SERIE
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2177
+#EXTINF:-1,[DE] TNT SERIE HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2178
+#EXTINF:-1,[DE] VOX
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2186
+#EXTINF:-1,[DE] ZDF
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2188
+#EXTINF:-1,[DE] ZDF INFO
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2189
+#EXTINF:-1,[DE] SPIEGEL
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/2916
+#EXTINF:-1,[DE] ANIMAL CHANNEL
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4560
+#EXTINF:-1,[DE] E! ENTERTANIMENT
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4561
+#EXTINF:-1,[DE] EUROSPORT 2 HD EXTRA
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4479
+#EXTINF:-1,[DE] MOTORVISION TV
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4558
+#EXTINF:-1,[DE] RBB HD
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4817
+#EXTINF:-1,[DE] UNIVERSAL CHANNEL
+http://diaspromedia.tv:80/elvis-media/YtHMi3GMeJ/4559
