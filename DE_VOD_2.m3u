@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png", Powered by The Samsung Freak
 
+#EXTINF:-1 tvg-logo="https://jokertv.live/uploads/video_thumb/684.jpg", Rakuten TV 24/7 Filme
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.live/uploads/video_thumb/686.jpg", Plex 24/7 Musik
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/4.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.live/uploads/video_thumb/710.jpg", Samsung TV Plus
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jokertv.live/uploads/video_thumb/711.jpg", Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7059380-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b61796bf-a1a2-45d2-81ef-15a9e219b356&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://jokertv.live/uploads/video_thumb/781.jpg", Leg‘ den Kerl um!
 https://load.hdfilme.ws/hls/836f08f5a3b5fd90fddd15cdecddc574/836f08f5a3b5fd90fddd15cdecddc574.m3u8
